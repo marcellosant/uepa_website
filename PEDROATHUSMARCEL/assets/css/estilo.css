@@ -1,0 +1,544 @@
+body {
+    background-color: #cccccc;
+}
+
+.loginpagebody {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.inter-<uniquifier> {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+
+.maindivnavbar {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.uepalogodiv {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    width: auto;
+    height: 100px;
+    margin-right: 12.5em;
+}
+
+#uepalogo {
+    height: auto;
+    width: 25em; /* 400px */
+}
+
+#botaodebuscanavbar {
+    margin-left: 0rem; /* 250px */
+}
+
+.uppernavbar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 2rem;
+}
+
+.uppernavbar a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #E30613;
+    font-size: 0.7em; /* 11.2px */
+    margin-left: 0.7250em;
+}
+
+.uppernavbar a:hover {
+    color: #000000;
+}
+
+.centralredbuttonsuppernavbar {
+    height: 1.25em; /* 20px */
+    width: 25em; /* 400px */
+    margin-left: 18%;
+    position: relative;
+    display: flex;
+}
+
+.bottomnavbar {
+    background-color: #312783;
+    height: 2.813rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+
+.bottomnavbar a {
+    text-decoration: none;
+    font-family: "Inter";
+    font-weight: 100;
+    color: #ffffff;
+}
+
+.mainfooterdiv {
+    height: 16.625rem;
+    background-color: #312783;
+    display: flex;
+    position: relative;
+}
+
+.mainimagefooterdiv {
+    height: 90px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    left: -25%;
+    top: 20%;
+}
+
+.trecovermelho {
+    background-color: #E30613;
+    position: relative;
+    display: flex;
+    top: -8.21rem;
+    left: 32rem;
+    height: 0; /* 3px */
+    width: 300em; /* 1360px */
+    margin: auto;
+}
+
+.bottomfooterdiv {
+    height: 2.55em; /* 40.8px */
+    background-color: #4e4e80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footercontacts {
+    display: inline-flex;
+    position: relative;
+    height: 6em;
+    width: 150em;
+    right: 20%;
+    top: 30%;
+    left: -13%;
+}
+
+.rightinfodiv {
+    display: flex;
+    position: relative;
+    font-family: "Inter";
+    text-align: center;
+    justify-content: center;
+    width: 200em;
+    height: 5.6em;
+    top: 30%;
+    left: -10%;
+}
+
+.rightinfodiv span {
+    color: #ffffff;
+}
+
+.rightinfodiv p {
+    color: #6C757D;
+    font-family: sans-serif;
+    font-size: 0.9375em; /* 15px */
+    display: flex;
+}
+
+#twitter {
+    height: 1.625em; /* 26px */
+    color: #ffffff;
+}
+
+#youtube {
+    height: 1.625em; /* 26px */
+    color: #ffffff;
+}
+
+.footercontacts a {
+    text-decoration: none;
+}
+
+.footercontacts ul li {
+    display: flex;
+    text-decoration: none;
+    position: relative;
+    margin: auto;
+}
+
+.uppernavbarbuttom {
+    display: flex;
+}
+
+.breadcumbmaindivdocente {
+    height: auto;
+    width: auto;
+    margin-left: -93rem;
+}
+
+.minorcontainer {
+    height: 3.125em; /* 50px */
+    width: 15.625em; /* 250px */
+    margin-top: 1.25em; /* 20px */
+    margin-left: 19em;
+}
+
+#initialbuttondeniedacess {
+    font-family: arial;
+}
+
+.textdeniedcontainer {
+    height: 3.75em; /* 60px */
+    width: 18.75em; /* 300px */
+    margin-left: 18.75em; /* 300px */
+}
+
+#acessonegado {
+    font-family: "Inter";
+    font-size: 2.5em; /* 40px */
+    font-weight: 400;
+}
+
+.deniedredline {
+    height: 0.25em; /* 4px */
+    width: 13.125em; /* 210px */
+    background-color: #E30613;
+}
+
+.subtextdenieddiv {
+    height: 3.125em; /* 50px */
+    width: 75em; /* 1200px */
+    margin-top: 2.5em; /* 40px */
+}
+
+.subtextdenieddiv h2 {
+    font-family: "Inter";
+    font-weight: 300;
+}
+
+.textdeniedcontactbuttons {
+    height: 6.25em; /* 100px */
+    width: 81.25em; /* 1300px */
+    position: relative;
+    margin-top: -0.625em; /* -10px */
+    margin-left: 0.125em; /* 2px */
+}
+
+#squareplus {
+    width: 1.875em; /* 30px */
+    height: auto; 
+}
+
+.textdenieddiv {
+    width: 75em; /* 1200px */
+}
+
+.footercontacts i {
+    width: 2.5em; /* 40px */
+}
+
+.bottomnavbuttons {
+    height: 2.625em; /* 42px */
+    display: inline-block;
+    width: 118.75em; /* 1900px */
+    justify-content: center;
+}
+
+.bottomnavbuttons li {
+    color: #ffffff;
+    display: inline-block;
+    font-family: "Inter";
+    width: 8.875em; /* 142px */
+    margin-top: 0.75em; /* 12px */
+    font-size: 0.9375em; /* 15px */
+}
+
+.bottomnavbuttons a {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.copyrightdiv {
+    height: 1.25em; /* 20px */
+    width: 15.625em; /* 250px */
+    text-align: center;
+    justify-content: center;
+}
+
+.copyrightdiv p {
+    font-family: arial;
+    font-size: 0.75em; /* 12px */
+    color: #9590bf;
+}
+
+.emptypage {
+    height: 30vh;
+}
+
+.contentpagemain {
+    margin: 2em;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#youtubea {
+    text-decoration: none;
+}
+
+.eusouumdeus {
+    width: 18.4375em; /* 295px */
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 15.625em; /* 250px */
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.2), 0 0.375em 1.25em 0 rgba(0, 0, 0, 0.19); /* 0 4px 8px 0, 0 6px 20px 0 */
+    text-align: center;
+}
+
+.sichyperlinkdiv {
+    height: auto;
+    width: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.loginbuttondiv {
+    height: auto;
+    width: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.maincontentbadge {
+    height: 100%;
+    width: 9%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.uppernavbarbadge {
+    background-color: #E30613;
+    display: flex;
+    height: 1.25em; /* 20px */
+    width: 8em;
+    border: solid #E30613;
+    border-radius: 0.625em; /* 10px */
+    position: relative;
+    float: right;
+    margin-top: 0.10em; /* 4px */
+}
+
+.uppernavbarbadge span {
+    color: #ffffff;
+    position: absolute;
+    transform: translateY(-0%);
+    left: 7%;
+}
+
+.badgea {
+    text-decoration: none;
+}
+
+.maintextlogin {
+    height: 4.375em; /* 70px */
+    width: 62.5em; /* 1000px */
+    position: relative;
+    display: flex;
+    margin-left: -28rem;
+}
+
+.maintextlogin span {
+    font-family
+
+: "Inter";
+    font-size: 2.5em; /* 40px */
+    font-weight: 400;
+}
+
+.sublinetextlogin {
+    background-color: #E30613;
+    height: 0.25em; /* 4px */
+    width: 15.625em; /* 250px */
+    display: flex;
+    position: relative;
+    margin-left: -74rem;
+}
+
+.mainloginformdiv {
+    background-color: #eaeef5;
+    height: 31rem; /* 300px */
+    margin-left: 18.75em; /* 300px */
+    margin-top: -5.25em; /* 20px */
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.2), 0 0.375em 1.25em 0 rgba(0, 0, 0, 0.19); /* 0 4px 8px 0, 0 6px 20px 0 */
+    width: 60rem; /* 600px */
+    border: solid #eaeef5;
+    border-radius: 1.25em; /* 20px */
+    margin-bottom: 3.125em; /* 50px */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logouepafaleconosco {
+    display: flex;
+    position: relative;
+    height: auto;
+    width: 18rem;
+    left: 90rem;
+    margin-left: -2rem;
+    margin-top: -30rem;
+    margin-bottom: 10rem;
+}
+
+#logouepafala {
+    width: auto;
+    height: 20rem;
+}
+
+.formlogindiv {
+    display: inline-block;
+    height: auto;
+    width: 18.75em; /* 300px */
+    position: relative;
+    margin-top: 0;
+}
+
+.loginuepalogoimgdiv {
+    height: 15.375em; /* 246px */
+    width: 13.125em; /* 210px */
+    position: relative;
+    display: inline-block;
+    margin-left: 1.875em; /* 30px */
+    margin-top: -1.25em; /* -20px */
+}
+
+#uepaloginlogo {
+    height: 15.625em; /* 250px */
+    width: auto;
+}
+
+.docentemainpage {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.maincardsprofdiv {
+    height: 28em; /* 500px */
+    width:90em; /* 1100px */
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.25em; /* 20px */
+}
+
+.maincardsprofdiv2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 28em;
+    width: 90em;
+    margin-bottom: 5rem;
+}
+
+.firstprofcard {
+    height: auto;
+    width: auto;
+    position: relative;
+    display: flex; 
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.2), 0 0.375em 1.25em 0 rgba(0, 0, 0, 0.19); /* 0 4px 8px 0, 0 6px 20px 0 */
+    border-radius: 1em;
+}
+
+.secondprofcard {
+    height: auto;
+    width: auto;
+    position: relative;
+    display: flex;
+    margin-left: 1.875em; /* 30px */
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.2), 0 0.375em 1.25em 0 rgba(0, 0, 0, 0.19); /* 0 4px 8px 0, 0 6px 20px 0 */
+    border-radius: 1em;
+}
+
+.thirdprofcard {
+    height: auto;
+    width: auto;
+    position: relative;
+    display: flex;
+    margin-left: 1.875em; /* 30px */
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.2), 0 0.375em 1.25em 0 rgba(0, 0, 0, 0.19); /* 0 4px 8px 0, 0 6px 20px 0 */
+    border-radius: 1em;
+}
+
+.emailcartaoprof {
+    font-size: 0.75em; /* 12px */
+    color: #3b2cac;
+    margin-top: -1.25em; /* -20px */
+}
+
+#marie, #nikola, #albert  {
+    height: 20.625em; /* 330px */
+}
+
+.carouselmaindiv {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    border-radius: 1em;
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.2), 0 0.375em 1.25em 0 rgba(0, 0, 0, 0.19); /* 0 4px 8px 0, 0 6px 20px 0 */
+}
+
+#cardimg1 {
+    width: 80rem;
+    height: 45rem;
+}
+
+.separationlinered {
+    background-color: #E30613;
+    display: flex;
+    position: relative;
+    margin-left: -40rem;
+    height: 0.30rem;
+    width: 40rem;
+}
+
+.textopaginaprincipaldiv {
+    width: 80rem;
+    display: flex;
+    position: relative;
+    margin-top: 1rem;
+}
+
+.subtextopaginaprincipaldiv {
+    width: 80rem;
+    height: auto;
+    margin-top: 1rem;
+}
+
+.superiorfooterredline {
+    height: 0.20rem;
+    background-color: #E30613;
+}
