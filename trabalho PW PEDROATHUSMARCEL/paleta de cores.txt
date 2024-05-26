@@ -1,8 +1,0 @@
-paleta de cores - uepa ciencia de dados
-
-header e footer azul: #312783
-body: #ffffff
-secondary color: #E30613
-footer secondary: #4F4E80
-letras footer: #827FAE
- 
